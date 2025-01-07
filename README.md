@@ -10,24 +10,28 @@
   </a>
 </div>
 
+###
+
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
 <h4 align="left">An aspiring Java developer with a passion for creating dynamic and user-friendly applications</h4>
+
+
+- 📚 I'm currently learning **JavaFX and Advanced Java Concepts**
 - ⚡ Fun fact: **I enjoy debugging and exploring new frameworks to enhance my skills.**
 
 ###
 
-
-### Languages & Frameworks:
+<h3 align="left">🛠 Language and  Frameworks</h3>
 
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![Java Swing](https://img.shields.io/badge/-Java%20Swing-007396?style=flat-square&logo=java&logoColor=white) ![JavaFX](https://img.shields.io/badge/-JavaFX-25A18E?style=flat-square&logo=java&logoColor=white) ![JDBC](https://img.shields.io/badge/-JDBC-4479A1?style=flat-square&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   My Status </h3>
 
 ###
 
