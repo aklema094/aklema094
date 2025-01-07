@@ -20,7 +20,7 @@
 
 
 - 📚 I'm currently learning **JavaFX and Advanced Java Concepts**
-- ⚡ Fun fact: **I enjoy debugging and exploring new frameworks to enhance my skills.**
+- ⚡ **I enjoy debugging and exploring new frameworks to enhance my skills.**
 
 ###
 
